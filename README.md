@@ -1,2 +1,2 @@
-# Leetcode-Java
+# Leetcode-Java - Eligible(Hacktoberfest)
 Leetcode Answers in JAVA
